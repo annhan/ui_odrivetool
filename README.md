@@ -29,6 +29,13 @@ pip install odrive
 pip install pyqtgraph
 pip install pyqt5
 ```
+Trên Windown ta thực hiện
+```
+python3 -m pip install pyqtgraph
+
+python3 -m pip install pyqt5
+```
+
 ##### Or just from requirements (Possible Errors)
 ```
 pip install -r requirements.txt
