@@ -31,6 +31,7 @@ pip install pyqt5
 ```
 Trên Windown ta thực hiện
 ```
+python3 -m pip install odrive
 python3 -m pip install pyqtgraph
 
 python3 -m pip install pyqt5
